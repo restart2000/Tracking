@@ -1,0 +1,2 @@
+expt_pkg
+-DCATKIN_DEVEL_PREFIX=/home/howard/expt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/howard/expt_ws/install -G Unix Makefiles
